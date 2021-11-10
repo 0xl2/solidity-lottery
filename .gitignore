@@ -8,3 +8,6 @@ typechain
 cache
 artifacts
 bin
+.vscode
+
+.mocharc.json
